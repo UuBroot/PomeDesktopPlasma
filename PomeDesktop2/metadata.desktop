@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Pome Desktop 2
+X-KDE-PluginInfo-Author=UuBroot
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=lolylyt@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=PomeDesktop2
+X-KDE-PluginInfo-Version=2
+X-KDE-PluginInfo-Website=https://github.com/uubroot
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1738703,kns://icons.knsrc/api.kde-look.org/1482459209/papirus-icon-theme-breeze-folders.tar.xz,kns://plasmoids.knsrc/api.kde-look.org/1312669
