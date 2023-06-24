@@ -11,4 +11,4 @@ X-KDE-PluginInfo-Website=https://github.com/uubroot
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 
-X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1738703,kns://icons.knsrc/api.kde-look.org/1482459209/papirus-icon-theme-breeze-folders.tar.xz,kns://plasmoids.knsrc/api.kde-look.org/1312669
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1738703,kns://plasmoids.knsrc/api.kde-look.org/1312669
