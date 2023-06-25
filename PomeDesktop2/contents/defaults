@@ -4,6 +4,9 @@ cursorTheme=breeze_cursors
 [kdeglobals][General]
 ColorScheme=BreezeDark
 
+[kdeglobals][Icons]
+Theme=Papirus-Dark
+
 [kdeglobals][KDE]
 widgetStyle=Breeze
 
@@ -18,4 +21,7 @@ library=org.kde.breeze
 theme=Breeze
 
 [plasmarc][Theme]
-name=Fluent
+name=Colloid-dark
+
+[Wallpaper]
+Image=PomeDefaultWallpaper

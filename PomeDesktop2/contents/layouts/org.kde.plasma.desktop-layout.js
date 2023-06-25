@@ -1,5 +1,9 @@
 var plasma = getApiVersion(1);
 
+ColorAccetFile = ConfigFile("kdeglobals")
+ColorAccetFile.group = "General"
+ColorAccetFile.writeEntry("accentColorFromWallpaper", "true")
+
 var layout = {
     "desktops": [
         {
@@ -25,14 +29,9 @@ var layout = {
                     "filterMimeTypes": "\\0",
                     "positions": "{\"1920x1080\":[]}",
                     "sortMode": "-1"
-                },
-                "/Wallpaper/com.github.casout.wallpaperEngineKde/General": {
-                    "SteamLibraryPath": "file:///home/Games/SteamLibrary",
-                    "WallpaperSource": "file:///home/Games/SteamLibrary/steamapps/workshop/content/431960/1112904521/scene.json+scene",
-                    "WallpaperWorkShopId": "1112904521"
                 }
             },
-            "wallpaperPlugin": "com.github.casout.wallpaperEngineKde"
+            "wallpaperPlugin": "org.kde.image"
         }
     ],
     "panels": [
